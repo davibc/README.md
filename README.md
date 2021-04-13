@@ -1,4 +1,4 @@
-### Olá! :waves: Me chamo Davi.
+### Olá! :wave: Me chamo Davi.
 #### Sou um desenvolvedor web e programador iniciante.
 ![Sou um desenvolvedor web e programador iniciante.](https://assets.entrepreneur.com/content/3x2/2000/1599084192-Ent-CodingBundle.jpg)
 
