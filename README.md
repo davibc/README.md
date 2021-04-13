@@ -16,4 +16,4 @@ Skills: JS / HTML / CSS / PYTHON
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=davibc)  
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=q5o7eg7oa2u02rolu88yo2qdi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=q5o7eg7oa2u02rolu88yo2qdi&cover_image=true&theme=default)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=q5o7eg7oa2u02rolu88yo2qdi&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=q5o7eg7oa2u02rolu88yo2qdi&redirect=true)
