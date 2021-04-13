@@ -15,5 +15,3 @@ Skills: JS / HTML / CSS / PYTHON
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davibc)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=davibc&show_icons=true&count_private=true) 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=davibc)  
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=q5o7eg7oa2u02rolu88yo2qdi&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=q5o7eg7oa2u02rolu88yo2qdi&redirect=true)
