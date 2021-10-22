@@ -1,6 +1,5 @@
-# Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Me chamo Davi.
-#### Sou um desenvolvedor web e programador iniciante.
-![Sou um desenvolvedor web e programador iniciante.](https://assets.entrepreneur.com/content/3x2/2000/1599084192-Ent-CodingBundle.jpg)
+# Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> 
+Me chamo Davi e sou um desenvolvedor iniciante.
 
 Esse perfil no GitHub vai abrigar os meus mais diversos projetos nessa caminhada.
 
@@ -15,3 +14,5 @@ Skills: JS / HTML / CSS / PYTHON
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davibc)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=davibc&show_icons=true&count_private=true) 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=davibc)  
+
+![Twitter Follow](https://img.shields.io/twitter/follow/costabdavi?color=blue&label=%40costadavib&logo=Twitter&style=for-the-badge)
