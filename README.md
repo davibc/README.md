@@ -7,7 +7,7 @@ Esse perfil no GitHub vai abrigar os meus mais diversos projetos nessa caminhada
 Skills: JS / HTML / CSS / PYTHON
 
 - 🔭 Atualmente estou trabalhando em alguns projetos com foco em JS, HTML e CSS. 
-- 🌱 Atualmente estou aprendendo JavaScript, CSS e HTML 
+- 🌱 Atualmente estou aprendendo JavaScript, CSS e HTML.
 
 <h3 align="left">Se conecte comigo:</h3>
 <p align="left">
